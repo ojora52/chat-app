@@ -1,0 +1,7 @@
+create a register.php page
+create a data_base for user
+create a redirection to the login.php page
+
+//if register.php errors are empty redirect to login.php
+//if login.php is set redirect to index.php
+
